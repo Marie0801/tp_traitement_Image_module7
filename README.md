@@ -30,6 +30,8 @@ Le dataset contient 320 images, réparties en quatre classes de 80 images chacun
 | Test | 48 |
 | **Total** | **320** |
 
+voila le lien pour le photos du dataset : https://drive.google.com/drive/folders/1nH0Gy70G8VYB2wIfYtLIvPWDuTDgEQVK
+
 ### Méthodes utilisées
 
 **CNN personnalisé :** réseau convolutif développé pour apprendre les caractéristiques visuelles des fruits.
