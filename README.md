@@ -63,6 +63,7 @@ Le SVM et le k-NN représentent les méthodes classiques de référence. Le CNN 
 Le travail expérimental s'appuie sur des images de quatre classes : banane, orange, pomme et tamarillo.
 
 Pour le dataset de référence du projet de classification, les données sont organisées en ensembles d'entraînement, de validation et de test. Les résultats doivent être associés au dataset et à la configuration utilisés dans chaque expérimentation.
+voila le lien pour le photos du dataset : https://drive.google.com/drive/folders/1nH0Gy70G8VYB2wIfYtLIvPWDuTDgEQVK
 
 ### Évaluation
 
